@@ -11,3 +11,5 @@ def dimante():
 #ordinary code area
 print('poem maker')
 main=input('>>> ')
+if main == 'dimante':
+    dimante()
