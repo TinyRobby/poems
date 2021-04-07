@@ -10,3 +10,4 @@ def dimante():
         filewrt.write(poet, '\n', nxt, '\n', aftr, otr)
 #ordinary code area
 print('poem maker')
+main=input('>>> ')
